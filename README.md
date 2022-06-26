@@ -88,7 +88,7 @@ While not necessary to code the individual tutorials, it is highly recommended t
 
 * Install [Anaconda](https://Anaconda.com/)
 * Install [Git](https://git-scm.com/download/) *_(optional)_*
-* Some installation steps may require admin privledges 
+* Some installation steps may require admin privileges
 
 <a name="installation"/></a>
 

@@ -4,13 +4,12 @@
 <div style="text-align: center;">
     <h2>Python Package Tutorials</h2>
     <a href="https://www.youtube.com/watch?v=uZQeBw_G9-8">
-        <img src="images/tools_and_packages.PNG" alt="Tools and Packages" width=700 height=500>
+        <img src="images/tools_and_packages.PNG" alt="Tools and Packages" width=700 height=350>
     </a>
     <h6 align="center"><i><b>Click the Image Above to View this Tutorial on YouTube</b></i></h6>
     <h4 align="center">This is a repository dedicated to learning how to use some of the most common data science packages and tools in Python. Click into each repository to review individuals notebooks with coding examples along with video tutorial recordings linked in the descriptions and hosted on the PushTheEnvelope YouTube channel.</h4>
 </div>
 
-***
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -37,7 +36,6 @@
   </ol>
 </details>
 
-***
 
 <!-- ABOUT THE PROJECT -->
 <a name="about-the-project"/></a>
@@ -75,7 +73,6 @@ The PushTheEnvelope YouTube channel, is a channel dedicated to teaching up and c
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-***
 
 <!-- GETTING STARTED -->
 <a name="getting-started"/></a></a>
@@ -112,7 +109,6 @@ Option 2: Without using Git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-***
 
 <!-- USAGE EXAMPLES -->
 <a name="usage"/></a>
@@ -125,7 +121,6 @@ Below are some example outputs of the Python Package tutorials:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-***
 
 <!-- ROADMAP -->
 <a name="progress"/></a>
@@ -144,7 +139,6 @@ Below are some example outputs of the Python Package tutorials:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-***
 
 <!-- CONTRIBUTING -->
 <a name="contributing"/></a>
@@ -166,7 +160,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-***
 
 <!-- LICENSE -->
 <a name="license"/></a>
@@ -177,7 +170,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-***
 
 <!-- CONTACT -->
 <a name="contact"/></a>

@@ -7,8 +7,9 @@
         <img src="images/tools_and_packages.PNG" alt="Tools and Packages" width=700 height=350>
     </a>
     <h6 align="center"><i><b>Click the Image Above to View this Tutorial on YouTube</b></i></h6>
-    <h4 align="center">This is a repository dedicated to learning how to use some of the most common data science packages and tools in Python. Click into each repository to review individuals notebooks with coding examples along with video tutorial recordings linked in the descriptions and hosted on the PushTheEnvelope YouTube channel.</h4>
 </div>
+
+This is a repository dedicated to learning how to use some of the most common data science packages and tools in Python. Click into each repository to review individuals notebooks with coding examples along with video tutorial recordings linked in the descriptions and hosted on the PushTheEnvelope YouTube channel.
 
 
 <!-- TABLE OF CONTENTS -->

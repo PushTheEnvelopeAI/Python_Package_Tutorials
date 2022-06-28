@@ -115,7 +115,7 @@ This installation uses Jupyter Notebook via Anaconda, a data science software di
 
 Below is an example of how Jupyter Notebook is layed out and how to execute basic commands
 
-<img src="usage.PNG" alt="Example Outputs" width=700 height=500>
+<img src="images/usage.PNG" alt="Example Outputs" width=700 height=500>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

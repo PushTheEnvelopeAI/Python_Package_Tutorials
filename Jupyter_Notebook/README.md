@@ -20,7 +20,7 @@
 <div style="text-align: center;">
     <h2>Jupyter Notebook</h2>
     <a href="https://www.youtube.com/watch?v=PtJk05fpAaA&list=PLGxQQ15B6f3vojnFLtJE7Dw6c8n1uCiVb&index=2">
-        <img src="images/thumbnail.PNG" alt="PushTheEnvelope YouTube Tutorial" width=700 height=500>
+        <img src="images/thumbnail.PNG" alt="PushTheEnvelope YouTube Tutorial" width=700 height=400>
     </a>
     <h6 align="center"><i><b>Click the Image Above to View this Tutorial on YouTube</b></i></h6>
 </div>
@@ -115,7 +115,7 @@ This installation uses Jupyter Notebook via Anaconda, a data science software di
 
 Below is an example of how Jupyter Notebook is layed out and how to execute basic commands
 
-<img src="usage.PNG" alt="Example Outputs" width=700 height=500>
+<img src="images/usage.PNG" alt="Example Outputs" width=700 height=300>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

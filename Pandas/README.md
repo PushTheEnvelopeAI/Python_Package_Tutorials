@@ -18,14 +18,14 @@
 
 <!-- PROJECT LOGO -->
 <div style="text-align: center;">
-    <h2>Numpy for Beginners</h2>
-    <a href="https://www.youtube.com/watch?v=r0Wjqphwbzg">
+    <h2>Pandas for Beginners</h2>
+    <a href="https://www.youtube.com/watch?v=6qvt92KnzWQ">
         <img src="images/cover.PNG" alt="PushTheEnvelope YouTube Tutorial" width=700 height=400>
     </a>
     <h6 align="center"><i><b>Click the Image Above to View this Tutorial on YouTube</b></i></h6>
 </div>
 
-This repository focuses on teaching beginners how to use the Numpy Python package. Numpy is an easy-to-use, fast, and efficient library for storing and manipulating array values. 
+This repository focuses on teaching beginners how to use the Pandas Python package. Pandas is an easy-to-use, fast, and efficient library for storing and manipulating large datasets. 
 
 
 <!-- TABLE OF CONTENTS -->
@@ -78,7 +78,7 @@ The PushTheEnvelope YouTube channel, is a channel dedicated to teaching up and c
 ### Built With
 
 * [Anaconda](https://anaconda.org/)
-* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,7 +109,7 @@ This installation uses Jupyter Notebook via Anaconda, a data science software di
 Option 1: Using Git
 1. Navigate to saving repository
 2. Clone repository: ```git clone https://github.com/PushTheEnvelopeAI/Python_Package_Tutorials.git```
-3. Move to downloaded folder: ```cd Python_Package_Tutorials/Numpy```
+3. Move to downloaded folder: ```cd Python_Package_Tutorials/Pandas```
 4. Open .ipynb files using Jupyter Notebook through Anaconda
 
 Option 2: Without using Git
@@ -127,7 +127,7 @@ Option 2: Without using Git
 
 ## Usage
 
-USAGE_DESCRIPTION
+Below are some example outputs of the Python package Pandas:
 
 <img src="images/usage.PNG" alt="Example Outputs" width=700 height=400>
 

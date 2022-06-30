@@ -127,7 +127,7 @@ Option 2: Without using Git
 
 ## Usage
 
-USAGE_DESCRIPTION
+Below are some example outputs of the Python package Numpy:
 
 <img src="images/usage.PNG" alt="Example Outputs" width=700 height=400>
 

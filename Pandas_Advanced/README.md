@@ -19,8 +19,8 @@
 <!-- PROJECT LOGO -->
 <div style="text-align: center;">
     <h2>Pandas for Beginners</h2>
-    <a href="YOUTUBE_VIDEO_LINK">
-        <img src="images/YOUTUBE_VIDEO_THUMBNAIL.PNG" alt="PushTheEnvelope YouTube Tutorial" width=700 height=400>
+    <a href="https://youtu.be/76TUOf1_nZs">
+        <img src="images/cover.PNG" alt="PushTheEnvelope YouTube Tutorial" width=700 height=400>
     </a>
     <h6 align="center"><i><b>Click the Image Above to View this Tutorial on YouTube</b></i></h6>
 </div>
